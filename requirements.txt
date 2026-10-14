@@ -1,0 +1,6 @@
+torch==2.9.1
+fastapi
+uvicorn
+google-cloud-storage
+numpy
+timm
